@@ -1,3 +1,5 @@
+# This script converts the directory names in ldcts files to the relevant directory names in the instance.
+
 import pandas as pd
 import argparse
 

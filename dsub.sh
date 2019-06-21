@@ -9,4 +9,4 @@ dsub \
     --machine-type n1-standard-4 \
     --image "gcr.io/ldscore-data/ldscore" \
     --script "run_ldcts.py" \
-    --tasks "submit_list1.tsv"
+    --tasks "submit_list.tsv"
