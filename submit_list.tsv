@@ -1,0 +1,9 @@
+--env	SUMSTAT	--env.1	BASELINE	--env.2	OUT	--env.3	LDCTS	--env.4	WEIGHTS	--env.5	DATASET
+/mnt/data/ss/UKB_460K.disease_T2D.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/results/Roadmap_baselineLDv2.2_1000G_EUR_Phase3	/mnt/data/Roadmap/Roadmap_dsub.ldcts	/mnt/data/weights/weights.hm3_noMHC.	Roadmap						
+/mnt/data/ss/UKB_460K.disease_T2D.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/results/GTEx_baselineLDv2.2_1000G_EUR_Phase3	/mnt/data/GTEx/GTEx_dsub.ldcts	/mnt/data/weights/weights.hm3_noMHC.	GTEx						
+/mnt/data/ss/UKB_460K.disease_T2D.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/results/Franke_baselineLDv2.2_1000G_EUR_Phase3	/mnt/data/Franke/Franke_dsub.ldcts	/mnt/data/weights/weights.hm3_noMHC.	Franke						
+/mnt/data/ss/UKB_460K.disease_T2D.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/results/ImmGen_baselineLDv2.2_1000G_EUR_Phase3	/mnt/data/ImmGen/ImmGen_dsub.ldcts	/mnt/data/weights/weights.hm3_noMHC.	ImmGen						
+/mnt/data/ss/UKB_460K.disease_T2D.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/results/CDTS_baselineLDv2.2_1000G_EUR_Phase3	/mnt/data/CDTS/CDTS_dsub.ldcts	/mnt/data/weights/weights.hm3_noMHC.	CDTS						
+/mnt/data/ss/UKB_460K.disease_T2D.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/results/Cahoy_baselineLDv2.2_1000G_EUR_Phase3	/mnt/data/Cahoy/Cahoy_dsub.ldcts	/mnt/data/weights/weights.hm3_noMHC.	Cahoy						
+/mnt/data/ss/UKB_460K.disease_T2D.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/results/Corces_ATAC_baselineLDv2.2_1000G_EUR_Phase3	/mnt/data/Corces_ATAC/Corces_ATAC_dsub.ldcts	/mnt/data/weights/weights.hm3_noMHC.	Corces_ATAC						
+/mnt/data/ss/UKB_460K.disease_T2D.sumstats	/mnt/data/baselineLD/baselineLD.	/mnt/data/results/hujoel_baselineLDv2.2_1000G_EUR_Phase3	/mnt/data/hujoel/hujoel_dsub.ldcts	/mnt/data/weights/weights.hm3_noMHC.	hujoel						

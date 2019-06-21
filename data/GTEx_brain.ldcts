@@ -1,0 +1,13 @@
+Brain_Amygdala	ldscores/GTEx_brain/GTEx_brain.1.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Anterior_cingulate_cortex_(BA24)	ldscores/GTEx_brain/GTEx_brain.2.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Caudate_(basal_ganglia)	ldscores/GTEx_brain/GTEx_brain.3.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Cerebellar_Hemisphere	ldscores/GTEx_brain/GTEx_brain.4.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Cerebellum	ldscores/GTEx_brain/GTEx_brain.5.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Cortex	ldscores/GTEx_brain/GTEx_brain.6.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Frontal_Cortex_(BA9)	ldscores/GTEx_brain/GTEx_brain.7.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Hippocampus	ldscores/GTEx_brain/GTEx_brain.8.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Hypothalamus	ldscores/GTEx_brain/GTEx_brain.9.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Nucleus_accumbens_(basal_ganglia)	ldscores/GTEx_brain/GTEx_brain.10.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Putamen_(basal_ganglia)	ldscores/GTEx_brain/GTEx_brain.11.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Spinal_cord_(cervical_c-1)	ldscores/GTEx_brain/GTEx_brain.12.,ldscores/GTEx_brain/GTEx_brain.control.
+Brain_Substantia_nigra	ldscores/GTEx_brain/GTEx_brain.13.,ldscores/GTEx_brain/GTEx_brain.control.
